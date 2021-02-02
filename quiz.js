@@ -31,9 +31,9 @@ let questions = [
     },{
         question : "What does JS stand for?",
         imgSrc : "img/js.png",
-        choiceA : "Wrong",
-        choiceB : "Wrong",
-        choiceC : "Correct",
+        choiceA : "Java source",
+        choiceB : "Javasourcing language",
+        choiceC : "Java script",
         correct : "C"
     }
 ];
